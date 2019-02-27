@@ -1,2 +1,2 @@
-# operationalize
-A MobX based operation store that can work as the backbone for the business logic streamlining and state manageemnt of any UI application (built using any framework).
+# mobx-operation-store
+A MobX based store to manage a unit of work. Exposes observable data, error and current state of operation.

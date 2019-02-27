@@ -1,0 +1,41 @@
+{
+  "name": "operationalize",
+  "version": "1.0.0",
+  "description": "A MobX based operation store that can work as the backbone for the business logic streamlining and state manageemnt of any UI application (built using any framework). ",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "externals": {
+    "mobx": "mobx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranav-xx/operationalize.git"
+  },
+  "keywords": [
+    "silplify",
+    "ui",
+    "state",
+    "management",
+    "ui-state-management",
+    "MobX",
+    "Operations",
+    "Operation",
+    "UI",
+    "business",
+    "logic"
+  ],
+  "author": "Pranav Kaushik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranav-xx/operationalize/issues"
+  },
+  "homepage": "https://github.com/pranav-xx/operationalize#readme",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "mobx": "^3.6.1"
+  }
+}
